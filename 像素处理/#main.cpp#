@@ -1,0 +1,6 @@
+#include<iostream>
+
+/Users/maru/Con*int main() {
+  printf("dsa");
+  return 0;
+}

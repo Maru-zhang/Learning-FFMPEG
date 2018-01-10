@@ -10,6 +10,15 @@
 
 ## 1. 基础知识
 
+### 音频基础
+
+#### 什么是PCM(Pulse Code Modulation)?
+
+[Wiki百科](https://en.wikipedia.org/wiki/Pulse-code_modulation)
+[PCM文件格式简介](http://blog.csdn.net/ce123_zhouwei/article/details/9359389)
+
+### 系列文章
+
 国内的FFMPEG大神肯定是绕不开已故的雷霄骅，这个世界已经不会再有他优秀的文章了，但是他留下来的是给我们最好的馈赠。
 
 [[总结]视音频编解码技术零基础学习方法](http://blog.csdn.net/leixiaohua1020/article/details/18893769)
