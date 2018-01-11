@@ -29,5 +29,7 @@
 5. [视音频数据处理入门：FLV封装格式解析](http://blog.csdn.net/leixiaohua1020/article/details/50535082)
 6. [视音频数据处理入门：UDP-RTP协议解析](http://blog.csdn.net/leixiaohua1020/article/details/50535230)
 
+[源码解析系列文章](http://blog.csdn.net/column/details/osmedia.html)
+
 ## 2.编译方法
 
