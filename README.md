@@ -10,7 +10,7 @@
 
 ## 1. 基础知识
 
-### 音频基础
+### （一）音频基础
 
 #### 什么是PCM(Pulse Code Modulation)?
 
@@ -30,6 +30,13 @@
 6. [视音频数据处理入门：UDP-RTP协议解析](http://blog.csdn.net/leixiaohua1020/article/details/50535230)
 
 [源码解析系列文章](http://blog.csdn.net/column/details/osmedia.html)
+
+### （一）视频基础
+
+#### 视频基础
+
+[H.264码流结构 (H.264 Data Structure)](https://chengyangli.github.io/2017/12/11/h264DataStructure/)
+[硬件编码相关知识(H264,H265)](https://juejin.im/post/5a8fe8876fb9a0635a65799b)
 
 ## 2.编译方法
 
